@@ -1,0 +1,3 @@
+[submodule "scripts-library"]
+	path = scripts-library
+	url = https://github.com/vinnie357/scripts-library

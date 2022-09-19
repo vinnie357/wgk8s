@@ -1,0 +1,16 @@
+# project specific
+gcpServiceAccountKey.json
+constellationGcpServiceAccountKey.json
+
+## cluster information
+constellation-conf.yaml
+constellation-state.json
+constellation-mastersecret.json
+constellation-id.json
+constellation-admin.conf
+
+
+## terraform
+.terraform
+terraform.tfstate
+terraform.tfstate.backup

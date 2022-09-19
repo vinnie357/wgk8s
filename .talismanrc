@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: scripts-library
+  checksum: 3be4b24be82bfdfbdda490cdc0fcba72a920a0e52a9859e88000c0a43c3d19f1
+- filename: terraform/constellation/.terraform.lock.hcl
+  checksum: 34bf97b3189384a7e296e821040c5e74699e68d62782a0d64d0ce1887f7ed75d
+- filename: scripts/tailscale-debian.sh
+  checksum: b30db035857fda8a5fc7b325ad353730695f7be66a20050f4137e327b461f647
+- filename: scripts/azurecli-debian.sh
+  checksum: 2442e7d3938df54ade68ed5dc71a1d25a797a99ea9ebb6c0c590acb7f7272325
+- filename: scripts/gcloud-debian.sh
+  checksum: 2d76da4d3b9c9cc6cef86ff7e6463084bafe3ea230dc725b6a76d2d3bf06efb6
+- filename: gcp/readme.md
+  checksum: 22f48838d33a6e0dcf37de78f95655b39faaec05f178c96af0fba8b99631fac6
+version: "0.0.0"
